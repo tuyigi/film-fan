@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="text_app_bar">30dp</dimen>
+    <dimen name="text_content">18dp</dimen>
+    <dimen name="text_title">20dp</dimen>
+</resources>

@@ -1,0 +1,1 @@
+package rw.bk.filmfan.helpers;import android.view.View;public interface clickListener {    public void onItemClick(int postion);}
