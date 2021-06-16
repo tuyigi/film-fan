@@ -10,7 +10,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8315c99-69af-4680-a122-02297d4b2f7f" name="Default Changelist" comment="" />
+    <list default="true" id="b8315c99-69af-4680-a122-02297d4b2f7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/rw/bk/filmfan/activities/movie_details/details.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/rw/bk/filmfan/activities/movie_details/details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/rw/bk/filmfan/helpers/dateHelpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/rw/bk/filmfan/helpers/dateHelpers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
