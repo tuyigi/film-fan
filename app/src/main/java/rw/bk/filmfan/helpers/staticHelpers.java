@@ -1,1 +1,1 @@
-package rw.bk.filmfan.helpers;public class staticHelpers {    public String language="en-US";    public String[] cars = {"created_at.asc", "created_at.desc"};}
+package rw.bk.filmfan.helpers;public class staticHelpers {    public String language="en-US";    public String[] sortBy = {"created_at.asc", "created_at.desc"};}
